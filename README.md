@@ -1,2 +1,2 @@
 # Edureka
-this my repo
+this is my repo
